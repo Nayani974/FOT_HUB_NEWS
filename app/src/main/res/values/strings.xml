@@ -1,4 +1,10 @@
 <resources>
+<<<<<<< Updated upstream
     <string name="app_name">Fot_Hub_News</string>
     <string name="splash_icon_desc">Splash screen icon</string>
+=======
+    <string name="app_name">FOT HUB</string>
+    <string name="don_t_have_an_account_sign_up" />
+    <string name="login" />
+>>>>>>> Stashed changes
 </resources>
